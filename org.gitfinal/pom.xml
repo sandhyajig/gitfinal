@@ -25,8 +25,8 @@
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
-				<groupId>at.chrl</groupId>
-				<artifactId>chrl-bom</artifactId>
+				<groupId>sandhya.org</groupId>
+				<artifactId>sandhya</artifactId>
 				<version>${chrlVersion}</version>
 				<type>pom</type>
 				<scope>import</scope>
